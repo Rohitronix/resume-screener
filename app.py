@@ -1,1 +1,0 @@
-print("Resume screener started")
